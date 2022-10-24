@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Dados\Documents\Entra 21\entra21-aula-java-avancado\.metadata\.plugins\org.eclipse.jdt.core
+1641813009.index
+1865797976.index
+873918880.index

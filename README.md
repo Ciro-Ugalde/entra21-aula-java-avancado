@@ -25,8 +25,9 @@ Repositório com as práticas realizadas em aula
 |Aula 09 |Prática com listas e exercicios
 |Aula 10 |Entrega da 1º versão do projeto final com assuntos aprendidos até o momento
 
-## Projeto de exemplo 
+## Projeto 
 
-### Esse projeto contempla todos os assuntos vistos até o momento e pode ser usado como exemplo 
+### Esse projeto contempla todos os assuntos vistos até o momento.
+## O projeto foi desenvolvido pela equipe amarela, composta por quatro integrantes. 
 
 [Projeto de exemplo](https://github.com/lucascagostinho/entra21-projeto-2022/tree/agil-logica-poo-avancado)
